@@ -41,7 +41,7 @@ namespace Modul7_kelompok1
         public void ReadJSON()
         {
             string path = Directory.GetParent(Directory.GetCurrentDirectory()).Parent.Parent.FullName;
-            string jsonString = File.ReadAllText(path + "/jurnal7_1_1302220093.json");
+            string jsonString = File.ReadAllText(path + "/jurnal7_1_1302220004.json");
 
             DataMahasiswa1302220004 mhs = JsonSerializer.Deserialize<DataMahasiswa1302220004>(jsonString);
             Console.WriteLine($"Nama : {mhs.firstName} {mhs.lastName}");
