@@ -1,0 +1,15 @@
+{
+   "firstName": "Izhar",
+   "lastName": "Fahriansyah",
+   "gender": "male",
+   "age": 20,
+   "address": {
+       "streetAddress": "Teratai",
+       "city": "Tangerang",
+       "state": "Banten"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2XX", "name": "Pengalaman Pengguna" }
+   ]
+}

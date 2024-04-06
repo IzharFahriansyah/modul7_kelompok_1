@@ -1,0 +1,15 @@
+D:\Praktikum KPL\MODUL7\MODUL7\obj\Debug\net8.0\MODUL7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praktikum KPL\MODUL7\MODUL7\obj\Debug\net8.0\MODUL7.AssemblyInfoInputs.cache
+D:\Praktikum KPL\MODUL7\MODUL7\obj\Debug\net8.0\MODUL7.AssemblyInfo.cs
+D:\Praktikum KPL\MODUL7\MODUL7\obj\Debug\net8.0\MODUL7.csproj.CoreCompileInputs.cache
+D:\Praktikum KPL\MODUL7\MODUL7\obj\Debug\net8.0\MODUL7.sourcelink.json
+D:\Praktikum KPL\MODUL7\MODUL7\bin\Debug\net8.0\MODUL7.exe
+D:\Praktikum KPL\MODUL7\MODUL7\bin\Debug\net8.0\MODUL7.deps.json
+D:\Praktikum KPL\MODUL7\MODUL7\bin\Debug\net8.0\MODUL7.runtimeconfig.json
+D:\Praktikum KPL\MODUL7\MODUL7\bin\Debug\net8.0\MODUL7.dll
+D:\Praktikum KPL\MODUL7\MODUL7\bin\Debug\net8.0\MODUL7.pdb
+D:\Praktikum KPL\MODUL7\MODUL7\obj\Debug\net8.0\MODUL7.dll
+D:\Praktikum KPL\MODUL7\MODUL7\obj\Debug\net8.0\refint\MODUL7.dll
+D:\Praktikum KPL\MODUL7\MODUL7\obj\Debug\net8.0\MODUL7.pdb
+D:\Praktikum KPL\MODUL7\MODUL7\obj\Debug\net8.0\MODUL7.genruntimeconfig.cache
+D:\Praktikum KPL\MODUL7\MODUL7\obj\Debug\net8.0\ref\MODUL7.dll
