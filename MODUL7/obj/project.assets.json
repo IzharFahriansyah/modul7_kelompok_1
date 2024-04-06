@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\N4NRC\\.nuget\\packages\\": {}
+    "C:\\Users\\Wildan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Praktikum KPL\\MODUL7\\MODUL7\\MODUL7.csproj",
+      "projectUniqueName": "D:\\SEMESTER 4\\modul7_kelompok_2\\MODUL7\\MODUL7.csproj",
       "projectName": "MODUL7",
-      "projectPath": "D:\\Praktikum KPL\\MODUL7\\MODUL7\\MODUL7.csproj",
-      "packagesPath": "C:\\Users\\N4NRC\\.nuget\\packages\\",
-      "outputPath": "D:\\Praktikum KPL\\MODUL7\\MODUL7\\obj\\",
+      "projectPath": "D:\\SEMESTER 4\\modul7_kelompok_2\\MODUL7\\MODUL7.csproj",
+      "packagesPath": "C:\\Users\\Wildan\\.nuget\\packages\\",
+      "outputPath": "D:\\SEMESTER 4\\modul7_kelompok_2\\MODUL7\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\N4NRC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Wildan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

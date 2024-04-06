@@ -1,0 +1,32 @@
+{
+  "members" : [
+    {
+       "firstName": "Wildan Hadi",
+       "lastName": "Fernando",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302223012"
+    },
+    {
+       "firstName": "Nabiel",
+       "lastName": "Ascar",
+       "gender": "male",
+       "age": 32,
+       "nim": "13022230080"
+    },
+    {
+      "firstName": "Izhar",
+      "lastName": "Farhiyansyah",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302220056"
+    },
+    {
+      "firstName": "Fauzan",
+      "lastName": "Arrizqy",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302220004"
+    }
+  ]
+}
