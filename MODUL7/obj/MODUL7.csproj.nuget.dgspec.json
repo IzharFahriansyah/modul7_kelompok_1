@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Praktikum KPL\\MODUL7\\MODUL7\\MODUL7.csproj": {}
+    "C:\\Docs\\Konstruksi Perangkat Lunak\\modul7_kelompok_1\\MODUL7\\MODUL7.csproj": {}
   },
   "projects": {
-    "D:\\Praktikum KPL\\MODUL7\\MODUL7\\MODUL7.csproj": {
+    "C:\\Docs\\Konstruksi Perangkat Lunak\\modul7_kelompok_1\\MODUL7\\MODUL7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Praktikum KPL\\MODUL7\\MODUL7\\MODUL7.csproj",
+        "projectUniqueName": "C:\\Docs\\Konstruksi Perangkat Lunak\\modul7_kelompok_1\\MODUL7\\MODUL7.csproj",
         "projectName": "MODUL7",
-        "projectPath": "D:\\Praktikum KPL\\MODUL7\\MODUL7\\MODUL7.csproj",
-        "packagesPath": "C:\\Users\\N4NRC\\.nuget\\packages\\",
-        "outputPath": "D:\\Praktikum KPL\\MODUL7\\MODUL7\\obj\\",
+        "projectPath": "C:\\Docs\\Konstruksi Perangkat Lunak\\modul7_kelompok_1\\MODUL7\\MODUL7.csproj",
+        "packagesPath": "C:\\Users\\nabiel\\.nuget\\packages\\",
+        "outputPath": "C:\\Docs\\Konstruksi Perangkat Lunak\\modul7_kelompok_1\\MODUL7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\N4NRC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nabiel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
