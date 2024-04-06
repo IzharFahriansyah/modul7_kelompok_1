@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fauzan\\Desktop\\KPL\\Modul7_kelompok 1\\Modul7_kelompok 1\\Modul7_kelompok 1.csproj",
+      "projectUniqueName": "C:\\Users\\fauzan\\Desktop\\KPL\\modul7_kelompok 1\\Modul7_kelompok 1\\Modul7_kelompok 1\\Modul7_kelompok 1.csproj",
       "projectName": "Modul7_kelompok 1",
-      "projectPath": "C:\\Users\\fauzan\\Desktop\\KPL\\Modul7_kelompok 1\\Modul7_kelompok 1\\Modul7_kelompok 1.csproj",
+      "projectPath": "C:\\Users\\fauzan\\Desktop\\KPL\\modul7_kelompok 1\\Modul7_kelompok 1\\Modul7_kelompok 1\\Modul7_kelompok 1.csproj",
       "packagesPath": "C:\\Users\\fauzan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fauzan\\Desktop\\KPL\\Modul7_kelompok 1\\Modul7_kelompok 1\\obj\\",
+      "outputPath": "C:\\Users\\fauzan\\Desktop\\KPL\\modul7_kelompok 1\\Modul7_kelompok 1\\Modul7_kelompok 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fauzan\\AppData\\Roaming\\NuGet\\NuGet.Config",
